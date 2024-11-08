@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xhuliakurtiofficial
 - 👀 I’m interested in science
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently graduating data science
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me xhuliakurtikontakt@gmail.com
 
